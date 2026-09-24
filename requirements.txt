@@ -1,0 +1,8 @@
+astropy
+matplotlib
+numpy
+Pillow
+scikit-image
+torch
+torchvision
+tqdm
